@@ -1,4 +1,4 @@
-## File Splitter and Reassembler
+## File Splitter & Reassembler and Repository Structure
 
 This repository contains tools for splitting large files into smaller parts and reassembling them back into the original file. This is particularly useful for uploading large model files to GitHub, which has a file size limit of 25 MB.
 
