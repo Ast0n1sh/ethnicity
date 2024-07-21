@@ -15,3 +15,5 @@ GitHub imposes a limit on the size of files that can be uploaded to a repository
   - `File Splitter & Reassembler.py` : Script and GUI for splitting files and reassembling files.
 
   - `Ethnicity.py` : The project source code
+
+Note: Since model is already splitted just use the code block 2 for reassembling the splitted files. Select the folder which contains the splitted model files and choose the path and name to save it into single file.
